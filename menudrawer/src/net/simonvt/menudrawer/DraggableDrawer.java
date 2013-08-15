@@ -29,7 +29,7 @@ public abstract class DraggableDrawer extends MenuDrawer {
     /**
      * The maximum alpha of the dark menu overlay used for dimming the menu.
      */
-    protected static final int MAX_MENU_OVERLAY_ALPHA = 185;
+    protected static final int MAX_MENU_OVERLAY_ALPHA = 150;
 
     /**
      * Default delay from {@link #peekDrawer()} is called until first animation is run.
